@@ -1,2 +1,5 @@
-# my-coding-journey
-My first step to 408 and coding.
+# My Coding Journey
+
+2026年11月15日，我创建了这个仓库。
+我的目标是：2028考研408，从零开始提升编程能力。
+今天，我打破了“零”。
